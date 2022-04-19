@@ -3,16 +3,17 @@ crear repositorio
 -----------------------------------------------
 git init
 git add *
+git status
 git commit -m "first commit"
-git remote add origin https://github.com/LMGUBA/array.git
-git branch -M main
-git push -u origin main
+git branch -M master
+git remote add origin https://github.com/LMGUBA/arreglos_imagen.git
+git push -u origin master
 -------------------------------------------------------
 actualizar repositorio
 ------------------------------------------------------
 git init 
 git add *
-git commit -m "cuarto comit"
+git commit -m "secont comit"
 git push
 -------------------------------------------------------
 -------------------------------------------------------
